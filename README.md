@@ -1,5 +1,6 @@
 # Transform.css
 A ton of <em>free, easy-to-use</em> css animations. Transform your website from <i>plain</i> to <b>awesome and cool</b>
+`Transform.css` has animations that are triggered on hover as well as animations that function by themselves automatically.
 
 
 <h1> Note, transform.css is currently in development, and the website is not comeplete yet </h1>
